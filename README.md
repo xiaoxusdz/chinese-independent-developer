@@ -16,9 +16,13 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
-（名字按时间排序，最新添加的在最上面）
+（名字按时间排序，最新添加的在最上面） 
 
 ### 2024 年 10 月 10 号添加
+
+#### 晓虚
+- :white_check_mark: [HotTattoo AI](https://hottattoo.ai/)：免费 AI 纹身生成器和独特的纹身创意
+
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
 * :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
 
